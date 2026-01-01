@@ -5,6 +5,7 @@ A clean and structured repository documenting my journey of learning **C++ from 
 ## 📂 Structure
 
 - `00_setup` → compiler setup and first C++ program
+- `01_basics` → variables, data types, input/output, operators
 
 ## 🎯 Goals
 
