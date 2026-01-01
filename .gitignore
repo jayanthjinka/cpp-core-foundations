@@ -1,0 +1,23 @@
+# ===== Compiled files =====
+*.exe
+*.out
+*.obj
+*.ilk
+*.pdb
+
+# ===== Build folders =====
+Debug/
+Release/
+x64/
+x86/
+build/
+
+# ===== Visual Studio =====
+.vs/
+
+# ===== VS Code =====
+.vscode/
+
+# ===== OS junk =====
+Thumbs.db
+.DS_Store
