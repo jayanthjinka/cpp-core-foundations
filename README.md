@@ -8,6 +8,7 @@ A clean and structured repository documenting my journey of learning **C++ from 
 - `01_basics` → variables, data types, input/output, operators
 - `02_control_flow` → if-else and switch statements
 - `03_loops` → for, while, do-while loops
+- `04_functions` → function basics, parameters, return values, overloading
 
 ## 🎯 Goals
 
